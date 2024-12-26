@@ -1,0 +1,7 @@
+Hi,I am Alexa an AI Assistant.I am here to help you.
+This file is intially is in working directory.
+If we run git add then it is in staging area.
+In git add we will add only one file.
+If we run git commit then it is in local repository.
+if we run git push then it is in remote repository.
+with this git commit and it push we will send batch of files.
